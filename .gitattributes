@@ -1,3 +1,4 @@
 *.cs linguist-language=C#
 *.js linguist-language=C#
 *.css linguist-language=C#
+*.aspx linguist-language=C#
