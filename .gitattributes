@@ -2,3 +2,5 @@
 *.js linguist-language=C#
 *.css linguist-language=C#
 *.aspx linguist-language=C#
+*.cshtml linguist-language=C#
+*.vbhtml linguist-language=C#
